@@ -1,6 +1,6 @@
 module example/user/hello
 
-go 1.16
+go 1.17.3
 
 require (
 	github.com/gorilla/mux v1.8.0
