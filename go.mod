@@ -1,4 +1,4 @@
-module example/user/hello
+module github.com/concurrente/tf/backend
 
 go 1.17.3
 
